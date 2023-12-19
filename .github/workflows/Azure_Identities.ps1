@@ -1,3 +1,4 @@
+# All the commands required to create Workload Identity on Entra Tenant
 $azureContext = Get-AzContext
 
 $githubOrganizationName = 'rozkurt'
